@@ -1,5 +1,4 @@
 module Evaluacion1 where
-
 -- Función para verificar si un número es primo
 esPrimo :: Int -> Bool
 esPrimo n

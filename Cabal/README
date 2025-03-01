@@ -1,0 +1,17 @@
+Para que este programa funcione se deben exponer los modulos 
+        Codec
+        Data.Arry.Repa
+        Data.Vector.Storable
+
+Para exponerlos utiliza el comando :set <nombre del modulo> dentro del entorno
+interactivo de GHCI de la siguiente manera
+
+
+:set -package vector
+
+
+
+La imagen dentro de la carpeta "imgs" en caso de ser cambiada tiene que llamarse "imagen" con una extencion jpg
+para funcionar de manera correcta
+
+HECHO POR: Leonardo Contreras Cerritos
